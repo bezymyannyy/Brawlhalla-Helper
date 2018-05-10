@@ -1,0 +1,12 @@
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\bin\Release\Brawlhalla Helper.exe.config
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\bin\Release\Brawlhalla Helper.exe
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\bin\Release\Brawlhalla Helper.pdb
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\bin\Release\Brawlhalla Helper.xml
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\obj\Release\Brawlhalla_Helper.Resources.resources
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\obj\Release\Brawlhalla Helper.vbproj.GenerateResource.Cache
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\obj\Release\Brawlhalla Helper.vbproj.CoreCompileInputs.cache
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\obj\Release\Brawlhalla Helper.exe
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\obj\Release\Brawlhalla Helper.xml
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\obj\Release\Brawlhalla Helper.pdb
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\obj\Release\Brawlhalla Helper.vbprojResolveAssemblyReference.cache
+C:\Users\Kurtis\Documents\Visual Studio 2017\Projects\Brawlhalla Helper\Brawlhalla Helper\obj\Release\Brawlhalla_Helper.Form1.resources
